@@ -1,0 +1,152 @@
+[
+    {
+        "accountNumber": 1,
+        "lastName": "Doe",
+        "firstName": "John",
+        "middleName": "Smith",
+        "birthDate": "1990-01-01",
+        "INN": "123456789012",
+        "responsiblePerson": "Marty McFly",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 2,
+        "lastName": "Parker",
+        "firstName": "Peter",
+        "middleName": "David",
+        "birthDate": "1985-05-05",
+        "INN": "987654321098",
+        "responsiblePerson": "Ellen Ripley",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 3,
+        "lastName": "Johnson",
+        "firstName": "Michael",
+        "middleName": "Anthony",
+        "birthDate": "1995-10-10",
+        "INN": "456789012345",
+        "responsiblePerson": "Dorothy Gale",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 4,
+        "lastName": "Williams",
+        "firstName": "Jennifer",
+        "middleName": "Rose",
+        "birthDate": "1988-12-20",
+        "INN": "789012345678",
+        "responsiblePerson": "Luke Skywalker",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 5,
+        "lastName": "Brown",
+        "firstName": "Sophia",
+        "middleName": "Grace",
+        "birthDate": "1992-03-15",
+        "INN": "234567890123",
+        "responsiblePerson": "Harry Potter",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 6,
+        "lastName": "McClane",
+        "firstName": "John",
+        "middleName": "Bruce",
+        "birthDate": "1980-07-04",
+        "INN": "654321098765",
+        "responsiblePerson": "Marty McFly",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 7,
+        "lastName": "Ripley",
+        "firstName": "Ellen",
+        "middleName": "Louise",
+        "birthDate": "1979-02-12",
+        "INN": "543210987654",
+        "responsiblePerson": "Ellen Ripley",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 8,
+        "lastName": "Gale",
+        "firstName": "Dorothy",
+        "middleName": "Ann",
+        "birthDate": "1982-09-30",
+        "INN": "987654321012",
+        "responsiblePerson": "Dorothy Gale",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 9,
+        "lastName": "Solo",
+        "firstName": "Han",
+        "middleName": "Leia",
+        "birthDate": "1977-05-25",
+        "INN": "123450987654",
+        "responsiblePerson": "Luke Skywalker",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 10,
+        "lastName": "Granger",
+        "firstName": "Hermione",
+        "middleName": "Jean",
+        "birthDate": "1989-04-15",
+        "INN": "456789012678",
+        "responsiblePerson": "Harry Potter",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 11,
+        "lastName": "McFly",
+        "firstName": "George",
+        "middleName": "Lorraine",
+        "birthDate": "1987-11-12",
+        "INN": "456123789012",
+        "responsiblePerson": "Marty McFly",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 12,
+        "lastName": "Dallas",
+        "firstName": "Dallas",
+        "middleName": "Thomas",
+        "birthDate": "1978-08-20",
+        "INN": "789012345012",
+        "responsiblePerson": "Ellen Ripley",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 13,
+        "lastName": "Tinman",
+        "firstName": "Nick",
+        "middleName": "Ironheart",
+        "birthDate": "1985-03-05",
+        "INN": "456789012987",
+        "responsiblePerson": "Dorothy Gale",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 14,
+        "lastName": "Organa",
+        "firstName": "Leia",
+        "middleName": "Carrie",
+        "birthDate": "1976-12-27",
+        "INN": "789012345123",
+        "responsiblePerson": "Luke Skywalker",
+        "status": "Не в работе"
+    },
+    {
+        "accountNumber": 15,
+        "lastName": "Weasley",
+        "firstName": "Ron",
+        "middleName": "Bilius",
+        "birthDate": "1980-06-30",
+        "INN": "123456789678",
+        "responsiblePerson": "Harry Potter",
+        "status": "Не в работе"
+    }
+]

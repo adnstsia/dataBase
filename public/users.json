@@ -1,0 +1,27 @@
+[
+    {
+        "fullName": "Marty McFly",
+        "username": "martymcfly",
+        "password": "fluxcapacitor"
+    },
+    {
+        "fullName": "Ellen Ripley",
+        "username": "ellenripley",
+        "password": "alien123"
+    },
+    {
+        "fullName": "Dorothy Gale",
+        "username": "dorothygale",
+        "password": "yellowbrick"
+    },
+    {
+        "fullName": "Luke Skywalker",
+        "username": "lukeskywalker",
+        "password": "usetheforce"
+    },
+    {
+        "fullName": "Harry Potter",
+        "username": "harrypotter",
+        "password": "muggleborn"
+    }
+]

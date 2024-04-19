@@ -1,0 +1,80 @@
+.body {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #252422;
+}
+
+/* Стили для формы */
+.formContainer {
+    text-align: center;
+}
+
+.formContainer__label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formContainer__input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    color: white;
+    border: 1px solid white;
+    background-color: #252422;
+}
+
+.formContainer__button {
+    padding: 10px 20px;
+    background-color: #374b32;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.formContainer__button:hover {
+    background-color: #4b6544;
+}
+
+
+/* Стили для таблицы */
+.client-table {
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: 100%;
+}
+
+.client-table th, .client-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.client-table th {
+    background-color: #f2f2f2;
+}
+
+/* Стили для выпадающего списка */
+.status-select {
+    padding: 6px;
+}
+
+/* Стили для кнопки внутри ячейки */
+.action-button {
+    padding: 6px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+select {
+    background-color: #252422;
+    color: white;
+}
